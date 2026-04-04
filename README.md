@@ -10,6 +10,6 @@
 </ul>
 <!-- Example Google Maps Link -->
  <h2>Address</h2>
-<a href="https://maps.app.goo.gl/Hu5VwjuK856eVbkB8" target="_blank">flat 301 third floor</a>
+<a href="https://maps.app.goo.gl/Hu5VwjuK856eVbkB8" target="_blank">flat 301 third floor. Ring 301#</a>
  <h2>Contact</h2>
 <a href="mailto:lrobert@lfitokyo.org" target="_blank">Email</a>
