@@ -1,6 +1,6 @@
 <h1>You're Invited to Leo's 11<sup>th</sup> Birthday Party!</h1>
 <h2>Sunday April 19<sup>th</sup>, 2026</h2>
-<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/birthday-cake3.4.jpeg" alt="Birthday Cake" />
+<img src="arisugawa.jpeg" alt="Birthday Cake" />
 <h2>Event Details</h2>
 <ul>
     <ul>🕑 From 14h00 to 17h00 🕔</ul>    
