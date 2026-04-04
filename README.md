@@ -12,4 +12,4 @@
  <h2>Address</h2>
 <a href="https://maps.app.goo.gl/Hu5VwjuK856eVbkB8" target="_blank">Ring 301#</a>
  <h2>Contact</h2>
-<a href="mailto:lrobert@lfitokyo.org" target="_blank">Email</a>
+<a href="mailto:misakorob@gmail.com" target="_blank">Mum's Email</a>
