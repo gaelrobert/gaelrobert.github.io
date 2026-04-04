@@ -4,9 +4,9 @@
 <h2>Event Details</h2>
 <ul>
     <ul>🕑 From 14h00 to 17h00 🕔</ul>    
-    <ul>:rice_cracker: Enjoy Gouter :cake: </ul>
-    <ul>:soccer: Play games at Arisugawa Park </ul>
-    <ul> :book: Do homework (Dad's hack :wink:) </ul>
+    <ul>🍘 Enjoy Gouter 🍰 </ul>
+    <ul>⚽ Play games at Arisugawa Park </ul>
+    <ul> 📖 Do homework (Dad's hack 😜) </ul>
 </ul>
 <!-- Example Google Maps Link -->
  <h2>Address</h2>
