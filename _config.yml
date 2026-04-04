@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Anniv de Leo 2026
 description: Invitations
 author_profile: false
+sidebar: false
